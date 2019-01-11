@@ -1,0 +1,33 @@
+/* MY CSS */
+
+body {
+    background-color: #CDCBD6;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+.blackbox {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    margin: 0px;
+}
+
+
+.middle {
+    height: 80vh;
+    width: 75%;
+    background-color: white;
+    margin: auto;
+
+}
+
+
+.bottom{
+    height: 6vh;
+    width: 75%;
+    background-color: black;
+    background-position: center;
+    margin: auto; 
+}

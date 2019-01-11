@@ -1,0 +1,59 @@
+.top{
+   border: 3px solid black;
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-end;
+   padding: 10px;
+   height: 35vh;
+}
+
+.purple-box {
+    background-color: purple;
+    margin-right: 50px;
+    height: 65%;
+    width: 40px;
+}
+
+.green-box {
+    background-color: green;
+    height: 100%;
+    width: 25em;
+    margin-right: 50px;  
+}
+
+.circle {
+    background-color: cyan;
+    height: 100%; 
+    width: 14em; 
+    border-radius: 50%;
+}
+
+.middle{
+    border: 3px dotted black;   
+    padding: 50px;
+    height: 35vh;
+    margin-top: 30px;
+}
+
+.yellow {
+    background-color:tan;
+    height: 100%;
+    width: 100%;
+    box-shadow: 10px 10px 5px black;
+}
+
+.bottom {
+    width: 50%;
+    box-shadow: 1px 1px 5px black;
+    padding: 100px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+.bottom h1{
+    text-align: center;
+    letter-spacing: 10px;
+    width: 100%;
+    color: blue;
+}
+
