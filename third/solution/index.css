@@ -3,12 +3,14 @@ body, html {
   padding: 0;
 }
 
+/* this controls the row sizes. The width will scale to the browser size? */
 .row {
   height: 100px;
   width: 100%;
 }
 
-.row-big {
+/* I think this controls the area around the text */
+.row-big { 
   height: 200px;
   width: 100%;
 }

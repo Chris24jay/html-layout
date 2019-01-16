@@ -11,20 +11,20 @@
     background-color: purple;
     margin-right: 50px;
     height: 65%;
-    width: 40px;
+    width: 70px;
 }
 
 .green-box {
     background-color: green;
     height: 100%;
-    width: 25em;
+    width: 30em;
     margin-right: 50px;  
 }
 
 .circle {
     background-color: cyan;
-    height: 100%; 
-    width: 14em; 
+    height: 215px; 
+    width: 215px; 
     border-radius: 50%;
 }
 
@@ -47,7 +47,7 @@
     box-shadow: 1px 1px 5px black;
     padding: 100px;
     box-sizing: border-box;
-    margin-top: 30px;
+    margin: 25px auto;
 }
 
 .bottom h1{
@@ -55,5 +55,6 @@
     letter-spacing: 10px;
     width: 100%;
     color: blue;
+    
 }
 

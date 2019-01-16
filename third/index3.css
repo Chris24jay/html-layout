@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.grayRow {
+    background-color:#D8D8D8;
+    width: 100%;
+    height: 15vh;
+    overflow: auto;
+}
+
+.tinyBox {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin-left: 15px;
+    margin-block-start: 15px;
+    background-color: #4A90E2;
+}
+
+.whiteRow {
+    width: 100%;
+    height: 30vh;
+    overflow: auto;
+}
+
+.textBox {
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.blueRow {
+    width: 100%;
+    height: 15vh;
+    background-color: #4A90E2;
+}
+
+.greenRow {
+    width: 100%;
+    height: 15vh;
+    background-color: #50E3C2;
+}
+
+.lightGreenRow {
+    width: 100%;
+    height: 15vh;
+    background-color: #B8E986;
+}
+
+.yellowRow {
+    width: 100%;
+    height: 15vh;
+    background-color: #F8E71C;
+}
+
+
+
